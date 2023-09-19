@@ -1,0 +1,162 @@
+[
+    {
+        "UserName": "juanperez",
+        "Nombres": "Juan Pérez",
+        "Apellidos": "González",
+        "Email": "juanperez@correo.com.co",
+        "UsuarioConocidoPor": "Juanito",
+        "FechaDeNacimiento": "1985-03-15",
+        "FechaDeCreacionCuenta": "2021-01-15",
+        "InformacionPersonal": "Hola, soy Juan Pérez y me encanta viajar.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "marialopez",
+        "Nombres": "María López",
+        "Apellidos": "Fernández",
+        "Email": "marialopez@correo.com.co",
+        "UsuarioConocidoPor": "María",
+        "FechaDeNacimiento": "1990-08-25",
+        "FechaDeCreacionCuenta": "2021-02-02",
+        "InformacionPersonal": "Soy María López y me gusta la música clásica.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "carlosrodriguez",
+        "Nombres": "Carlos Rodríguez",
+        "Apellidos": "Martínez",
+        "Email": "carlosrodriguez@correo.com.co",
+        "UsuarioConocidoPor": "Carlitos",
+        "FechaDeNacimiento": "1978-12-10",
+        "FechaDeCreacionCuenta": "2021-03-20",
+        "InformacionPersonal": "Me llamo Carlos Rodríguez y soy aficionado a la pesca.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "anagarcia",
+        "Nombres": "Ana García",
+        "Apellidos": "Sánchez",
+        "Email": "anagarcia@correo.com.co",
+        "UsuarioConocidoPor": "Anita",
+        "FechaDeNacimiento": "1995-05-05",
+        "FechaDeCreacionCuenta": "2021-04-18",
+        "InformacionPersonal": "Hola, soy Ana García y me encanta la cocina.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "luisgonzales",
+        "Nombres": "Luis González",
+        "Apellidos": "Jiménez",
+        "Email": "luisgonzales@correo.com.co",
+        "UsuarioConocidoPor": "Luisito",
+        "FechaDeNacimiento": "1987-09-30",
+        "FechaDeCreacionCuenta": "2021-05-12",
+        "InformacionPersonal": "Soy Luis González y me apasiona la astronomía.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "lauratorres",
+        "Nombres": "Laura Torres",
+        "Apellidos": "Pérez",
+        "Email": "lauratorres@correo.com.co",
+        "UsuarioConocidoPor": "Laurita",
+        "FechaDeNacimiento": "1992-11-20",
+        "FechaDeCreacionCuenta": "2021-06-05",
+        "InformacionPersonal": "Hola, soy Laura Torres y me encanta el senderismo.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "javiermartinez",
+        "Nombres": "Javier Martínez",
+        "Apellidos": "López",
+        "Email": "javiermartinez@correo.com.co",
+        "UsuarioConocidoPor": "Javi",
+        "FechaDeNacimiento": "1980-04-22",
+        "FechaDeCreacionCuenta": "2021-07-30",
+        "InformacionPersonal": "Soy Javier Martínez y soy amante del fútbol.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "isabelramirez",
+        "Nombres": "Isabel Ramírez",
+        "Apellidos": "Soto",
+        "Email": "isabelramirez@correo.com.co",
+        "UsuarioConocidoPor": "Isa",
+        "FechaDeNacimiento": "1993-02-14",
+        "FechaDeCreacionCuenta": "2021-08-10",
+        "InformacionPersonal": "Hola, soy Isabel Ramírez y me encanta la jardinería.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "pedrogarcia",
+        "Nombres": "Pedro García",
+        "Apellidos": "Hernández",
+        "Email": "pedrogarcia@correo.com.co",
+        "UsuarioConocidoPor": "Pedrito",
+        "FechaDeNacimiento": "1987-07-18",
+        "FechaDeCreacionCuenta": "2021-09-09",
+        "InformacionPersonal": "Soy el usuario 9.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    },
+    {
+        "UserName": "sofiagonzales",
+        "Nombres": "Sofía González",
+        "Apellidos": "López",
+        "Email": "sofiagonzales@correo.com.co",
+        "UsuarioConocidoPor": "Sofi",
+        "FechaDeNacimiento": "1990-10-05",
+        "FechaDeCreacionCuenta": "2021-10-10",
+        "InformacionPersonal": "Soy el usuario 10.",
+        "Fotos": [
+            {
+                "Url": "https://res.cloudinary.com/dkdwgznvg/image/upload/v1666217579/no-photo-id-auth-server.png",
+                "EsPrincipal": true
+            }
+        ]
+    }
+]
