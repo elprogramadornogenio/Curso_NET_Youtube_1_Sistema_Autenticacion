@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autenticacionApp", "autenticacionApp\autenticacionApp.csproj", "{7790C794-4C2A-45F6-9CAA-5FDC62E47A03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autenticacionAppTest", "autenticacionAppTest\autenticacionAppTest.csproj", "{F40A8002-DA42-44B1-A4D7-8C56816B75F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7790C794-4C2A-45F6-9CAA-5FDC62E47A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7790C794-4C2A-45F6-9CAA-5FDC62E47A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7790C794-4C2A-45F6-9CAA-5FDC62E47A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40A8002-DA42-44B1-A4D7-8C56816B75F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40A8002-DA42-44B1-A4D7-8C56816B75F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40A8002-DA42-44B1-A4D7-8C56816B75F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40A8002-DA42-44B1-A4D7-8C56816B75F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
